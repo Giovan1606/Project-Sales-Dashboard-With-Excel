@@ -55,5 +55,5 @@ The dashboard includes:
 
 ## Project Files
 
-- [View Project Documentation](Sales%20Dashboard%20Project.docx%20%281%29.pdf)
-- [View Excel Dashboard](Project%20Sales%20Dashboard.xlsx)
+- [View Excel Dashboard](Project%20Sales%20Dashboard%20%281%29.xlsx)
+- [View Project Documentation](Sales%20Dashboard%20Project.docx%20%282%29.pdf)
